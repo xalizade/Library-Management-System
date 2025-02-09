@@ -64,6 +64,4 @@ This Library Management System is a terminal-based application built using **Pyt
 ## Contributing
 If you want to contribute, feel free to fork the repository and submit a pull request!
 
-## License
-This project is licensed under the MIT License.
 
